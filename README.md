@@ -1,3 +1,3 @@
-Türkiydeki Afrikalılara özel site
+Türkiyedeki Afrikalılara özel site
 
 ![](logo.png)
