@@ -1,3 +1,3 @@
 Türkiydeki Afrikalılara özel site
 
-![](videoson.mp4)
+![](logo.png)
