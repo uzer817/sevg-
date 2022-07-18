@@ -8,4 +8,4 @@ Türkiyedeki Afrikalılara özel site
 
 <h3> görüntüler </h3>
 
-![](logo.png)
+![](whatsapp.jpg)
