@@ -1,2 +1,1 @@
-# sevg-
-# sevg-
+Türkiydeki Afrikalılara özel site
